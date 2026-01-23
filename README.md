@@ -1,8 +1,13 @@
-<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
 
+<!-- 🌸 Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Hruthik B G</span></h1>
+
+<!-- 🌈 Animated Typing Banner (sequential colorful transitions with emojis) -->
+<div align="center">
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,html,css,mysql,cpp&theme=light" />
+  <img src="https://raw.githubusercontent.com/Hruthikbg29/Hruthikbg29/main/typing-multicolor.svg" />
 </p>
+</div>
 
 
 
