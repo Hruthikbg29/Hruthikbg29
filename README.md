@@ -1,73 +1,82 @@
 <!-- 🌸 Profile Header -->
-<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Hruthik B G</span></h1>
 
-<!-- 🌈 Animated Typing Banner (GitHub Safe) -->
+<!-- 🌈 Animated Typing Banner (GitHub-safe, sequential display) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code
 &weight=600
 &size=22
 &pause=900
-&color=EC4899
+&color=F472B6
 &center=true
 &vCenter=true
 &width=900
 &lines=☕+Java+Full+Stack+Developer;
-🌱+Spring+Boot+%7C+REST+APIs;
-⚙️+Docker+%7C+CI%2FCD+%7C+Jenkins;
+🌱+Core+Java+%7C+Advanced+Java;
+⚙️+Spring+Boot+%7C+REST+APIs;
 ⚛️+React.js+%7C+JavaScript;
-🗄️+MySQL+%7C+Backend+Engineering;
+🎨+HTML+%7C+CSS;
+🗄️+MySQL+%7C+Database+Design;
 🧠+Data+Structures+%26+Algorithms;
-🚀+Building+Production-Ready+Applications" />
+🚀+Building+Scalable+Applications" />
 </p>
 
 ---
 
 ## 🧭 About Me
 
-I’m a highly driven **Java Full Stack Developer** focused on engineering **robust, scalable, and automation-driven applications** 🚀.  
-I enjoy working across the full development lifecycle — from **backend architecture and APIs** to **frontend experiences and deployments**.
+I’m a highly motivated **Java Full Stack Developer** with a strong passion for building  
+**scalable, efficient, and real-world production-ready applications** 🚀.
 
-My expertise lies in building **production-ready systems** using modern Java frameworks and DevOps practices that ensure reliability, performance, and scalability.
+I specialize in crafting **robust backend systems** using Java and Spring while delivering  
+**clean, responsive, and user-friendly frontend experiences** with modern web technologies.
 
-- 🔭 **Recent Projects**
-  - **Spring Boot + MySQL Dockerized App** — Designed a multi-container architecture (`app` + `db`) using **🐳 Docker Compose**, enabling persistent storage and environment-based configuration.
-  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a production-grade Java web application on **AWS EC2**, configured with **Apache Tomcat** and built using **Maven**.
+Driven by strong fundamentals and continuous learning, I focus on **writing optimized logic, clean code, and maintainable architectures** that scale with business needs.
 
-- ☁️ **Cloud & DevOps Stack:** AWS | Jenkins | Docker | Git/GitHub | Apache Tomcat | Maven  
-- 💬 Ask me about: **Java | Spring Boot | REST APIs | CI/CD | Docker | MySQL | Cloud Deployments**  
-- 🌍 Based in **Bangalore, India**  
-- ✉️ **Email:** hruthikhruthik740@gmail.com  
-- 📞 **Phone:** +91 9380482536  
-- 🔗 **LinkedIn:** http://linkedin.com/in/hruthik-gowda-6532b431a  
+- 🚀 Strong foundation in **Core Java & Advanced Java**
+- 🧠 Actively strengthening **Data Structures & Algorithms**
+- ⚙️ Build **end-to-end full stack applications**
+- 🌱 Constantly improving through **hands-on projects**
+- 🌍 Based in **Bangalore, India**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 Dockerized Spring Boot Application
-- **Stack:** Spring Boot, MySQL, Docker, Docker Compose  
+### 🧩 Coffee / Full Stack Management Projects
+- **Stack:** Java, Spring, React, MySQL  
 - **Highlights:**  
-  - Multi-container architecture with persistent volumes  
-  - Environment-driven configuration  
-  - Production-style deployment workflow  
-- **Repository:** _Add link here_
+  - End-to-end full stack implementation  
+  - Clean architecture and database design  
+  - Real-world business logic integration  
+- **Repo:** _Add link here_
+
+---
+
+## 📞 Contact & Links
+
+📧 **Email:** hruthikhruthik740@gmail.com  
+📱 **Phone:** +91 9380482536  
+🔗 **LinkedIn:** http://linkedin.com/in/hruthik-gowda-6532b431a  
+
+---
+
+⭐ *Open to Java / Full Stack Developer opportunities*
