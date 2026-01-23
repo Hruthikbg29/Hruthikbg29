@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hey there, I'm Hruthik B G
+=================================
 
-<!--
-**Hruthikbg29/Hruthikbg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Developer & Java Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate developer focused on building efficient, scalable, and user-friendly applications.  
+I enjoy working on both frontend and backend development and continuously improving my DSA skills.
+
+---
+
+## 🛠️ Skills (Hover to see color transition)
+
+<p>
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#ff9800'"
+        onmouseout="this.style.color='#6a5acd'">
+    Core Java
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#00bcd4'"
+        onmouseout="this.style.color='#6a5acd'">
+    Advanced Java
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#4caf50'"
+        onmouseout="this.style.color='#6a5acd'">
+    MySQL
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#e34c26'"
+        onmouseout="this.style.color='#6a5acd'">
+    HTML
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#264de4'"
+        onmouseout="this.style.color='#6a5acd'">
+    CSS
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#f7df1e'"
+        onmouseout="this.style.color='#6a5acd'">
+    JavaScript
+  </span> •
+  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
+        onmouseover="this.style.color='#61dafb'"
+        onmouseout="this.style.color='#6a5acd'">
+    React
