@@ -1,82 +1,73 @@
+<!-- 🌸 Profile Header -->
 <h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
 
+<!-- 🌈 Animated Typing Banner (GitHub Safe) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code
 &weight=600
 &size=22
-&pause=800
-&color=2F80ED
+&pause=900
+&color=EC4899
 &center=true
 &vCenter=true
 &width=900
 &lines=☕+Java+Full+Stack+Developer;
 🌱+Spring+Boot+%7C+REST+APIs;
+⚙️+Docker+%7C+CI%2FCD+%7C+Jenkins;
 ⚛️+React.js+%7C+JavaScript;
-🗄️+MySQL+%7C+Database+Design;
+🗄️+MySQL+%7C+Backend+Engineering;
 🧠+Data+Structures+%26+Algorithms;
-🚀+Building+Scalable+Applications" />
+🚀+Building+Production-Ready+Applications" />
 </p>
 
 ---
 
-## 💼 About Me
+## 🧭 About Me
 
-I’m a highly motivated **Java Full Stack Developer** with a deep passion for engineering **robust, scalable, and high-performance applications** 🚀  
-I thrive at the intersection of **backend architecture, frontend experience, and problem-solving**, turning complex requirements into clean, efficient solutions.
+I’m a highly driven **Java Full Stack Developer** focused on engineering **robust, scalable, and automation-driven applications** 🚀.  
+I enjoy working across the full development lifecycle — from **backend architecture and APIs** to **frontend experiences and deployments**.
 
-With a strong command over **Core & Advanced Java**, I focus on building reliable systems using modern frameworks while ensuring maintainability, performance, and scalability from day one.  
-On the frontend, I enjoy crafting **intuitive, responsive, and user-centric interfaces** that enhance real-world usability.
+My expertise lies in building **production-ready systems** using modern Java frameworks and DevOps practices that ensure reliability, performance, and scalability.
 
-Problem-solving is at the core of my mindset — I actively sharpen my **Data Structures & Algorithms** skills to write optimized logic and make better architectural decisions. I strongly believe in **clean code, continuous learning, and real-world execution** over theoretical knowledge.
+- 🔭 **Recent Projects**
+  - **Spring Boot + MySQL Dockerized App** — Designed a multi-container architecture (`app` + `db`) using **🐳 Docker Compose**, enabling persistent storage and environment-based configuration.
+  - **Java Web App on AWS EC2 + Tomcat + Maven** — Deployed a production-grade Java web application on **AWS EC2**, configured with **Apache Tomcat** and built using **Maven**.
 
-- 🚀 Design and develop **end-to-end full-stack applications**
-- 🧠 Strong focus on **DSA-driven optimization and efficient logic**
-- ⚙️ Write **clean, scalable, and production-ready code**
-- 🌱 Constantly upskilling through **hands-on projects and learning**
-- 💼 Ready to contribute in **fast-paced, real-world development environments**
-- 📍 Based in **Bangalore, India**
-
-I’m actively seeking opportunities where I can **add immediate value**, grow as a software engineer, and build solutions that make a meaningful impact.
+- ☁️ **Cloud & DevOps Stack:** AWS | Jenkins | Docker | Git/GitHub | Apache Tomcat | Maven  
+- 💬 Ask me about: **Java | Spring Boot | REST APIs | CI/CD | Docker | MySQL | Cloud Deployments**  
+- 🌍 Based in **Bangalore, India**  
+- ✉️ **Email:** hruthikhruthik740@gmail.com  
+- 📞 **Phone:** +91 9380482536  
+- 🔗 **LinkedIn:** http://linkedin.com/in/hruthik-gowda-6532b431a  
 
 ---
 
-## 🧰 Technology Stack
+## 🛠️ Tech Stack & Tools
 
-### 💻 Programming & Backend
-<p>
-  🟢 Java &nbsp;|&nbsp;
-  🟢 Advanced Java &nbsp;|&nbsp;
-  🟢 Spring Boot &nbsp;|&nbsp;
-  🟢 REST APIs
-</p>
-
-### 🌐 Frontend
-<p>
-  🔵 HTML &nbsp;|&nbsp;
-  🔵 CSS &nbsp;|&nbsp;
-  🟡 JavaScript &nbsp;|&nbsp;
-  🔵 React.js
-</p>
-
-### 🗄️ Database
-<p>
-  🟠 MySQL
-</p>
-
-### 🧠 Problem Solving
-<p>
-  🟣 Data Structures & Algorithms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
 
 ---
 
-## 📞 Contact & Links
+## 🚀 Featured Projects
 
-📧 **Email:** hruthikhruthik740@gmail.com  
-📱 **Phone:** +91 9380482536  
-🔗 **LinkedIn:** [Hruthik Gowda](http://linkedin.com/in/hruthik-gowda-6532b431a)
-
----
-
-⭐ *Open to Java / Full Stack Developer opportunities*
+### 🧩 Dockerized Spring Boot Application
+- **Stack:** Spring Boot, MySQL, Docker, Docker Compose  
+- **Highlights:**  
+  - Multi-container architecture with persistent volumes  
+  - Environment-driven configuration  
+  - Production-style deployment workflow  
+- **Repository:** _Add link here_
