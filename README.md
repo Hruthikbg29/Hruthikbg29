@@ -1,26 +1,31 @@
 <!-- 🌸 Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Hruthik B G</span></h1>
 
-<!-- 🌈 Animated Typing Banner (GitHub-safe, sequential display) -->
+<!-- 🎥 Technology Display (Video-like sequential animation) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code
 &weight=600
-&size=22
-&pause=900
-&color=F472B6
+&size=21
+&pause=700
+&color=38BDF8
 &center=true
 &vCenter=true
-&width=900
-&lines=☕+Java+Full+Stack+Developer;
-🌱+Core+Java+%7C+Advanced+Java;
-⚙️+Spring+Boot+%7C+REST+APIs;
-⚛️+React.js+%7C+JavaScript;
-🎨+HTML+%7C+CSS;
-🗄️+MySQL+%7C+Database+Design;
+&width=1000
+&lines=☕+Core+Java;
+☕+Advanced+Java;
+⚙️+Spring+Framework;
 🧠+Data+Structures+%26+Algorithms;
-🚀+Building+Scalable+Applications" />
+⚛️+React.js;
+🟡+JavaScript;
+🔵+HTML5;
+🔵+CSS3;
+🗄️+MySQL;
+🟣+C%2B%2B;
+🔧+Git+%7C+GitHub;
+🚀+Java+Full+Stack+Developer" />
 </p>
+
 
 ---
 
