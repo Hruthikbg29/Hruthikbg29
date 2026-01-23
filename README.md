@@ -1,31 +1,11 @@
-<!-- 🌸 Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Hruthik B G</span></h1>
+<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
 
-<!-- 🎥 Technology Display (Video-like sequential animation) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&weight=600
-&size=21
-&pause=700
-&color=38BDF8
-&center=true
-&vCenter=true
-&width=1000
-&lines=☕+Core+Java;
-☕+Advanced+Java;
-⚙️+Spring+Framework;
-🧠+Data+Structures+%26+Algorithms;
-⚛️+React.js;
-🟡+JavaScript;
-🔵+HTML5;
-🔵+CSS3;
-🗄️+MySQL;
-🟣+C%2B%2B;
-🔧+Git+%7C+GitHub;
-🚀+Java+Full+Stack+Developer" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=700&color=0EA5E9&center=true&vCenter=true&width=900&lines=Core+Java;Advanced+Java;Spring+Boot;REST+APIs;React.js;JavaScript;HTML5;CSS3;MySQL;C%2B%2B;Data+Structures+and+Algorithms"
+    alt="Technologies"
+  />
 </p>
-
 
 ---
 
@@ -34,10 +14,11 @@ font=Fira+Code
 I’m a highly motivated **Java Full Stack Developer** with a strong passion for building  
 **scalable, efficient, and real-world production-ready applications** 🚀.
 
-I specialize in crafting **robust backend systems** using Java and Spring while delivering  
+I specialize in crafting **robust backend systems** using **Java and Spring**, while delivering  
 **clean, responsive, and user-friendly frontend experiences** with modern web technologies.
 
-Driven by strong fundamentals and continuous learning, I focus on **writing optimized logic, clean code, and maintainable architectures** that scale with business needs.
+Driven by strong fundamentals and continuous learning, I focus on **optimized logic, clean code,  
+and maintainable architectures** that scale with business needs.
 
 - 🚀 Strong foundation in **Core Java & Advanced Java**
 - 🧠 Actively strengthening **Data Structures & Algorithms**
@@ -50,29 +31,17 @@ Driven by strong fundamentals and continuous learning, I focus on **writing opti
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" title="Spring Boot"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧩 Coffee / Full Stack Management Projects
-- **Stack:** Java, Spring, React, MySQL  
-- **Highlights:**  
-  - End-to-end full stack implementation  
-  - Clean architecture and database design  
-  - Real-world business logic integration  
-- **Repo:** _Add link here_
 
 ---
 
