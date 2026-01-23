@@ -1,59 +1,77 @@
-👋 Hey there, I'm Hruthik B G
-=================================
+<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
 
-💻 **Passionate Full Stack Developer | Java & Web Technologies**
-
----
-
-## 🚀 About Me
-
-💻 Passionate **Full Stack Developer** with a strong foundation in **Core Java, Advanced Java, and modern Web Technologies**.  
-🧠 Actively strengthening my expertise in **Data Structures & Algorithms**, focusing on writing clean, optimized, and scalable code.  
-⚙️ I enjoy building **efficient, user-friendly, and real-world applications** that solve practical problems.  
-🌱 Constantly learning, experimenting, and growing through **hands-on projects and continuous improvement**.  
-📍 **Based in Bangalore, India**
-
----
-
-## 🛠️ Technologies & Skills (Hover to see magic ✨)
-
-<p>
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#ff9800'" onmouseout="this.style.color='#7b68ee'">☕ Core Java</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#00bcd4'" onmouseout="this.style.color='#7b68ee'">🚀 Advanced Java</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#4caf50'" onmouseout="this.style.color='#7b68ee'">🗄️ MySQL</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#e34c26'" onmouseout="this.style.color='#7b68ee'">🌐 HTML</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#264de4'" onmouseout="this.style.color='#7b68ee'">🎨 CSS</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#f7df1e'" onmouseout="this.style.color='#7b68ee'">📜 JavaScript</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#61dafb'" onmouseout="this.style.color='#7b68ee'">⚛️ React JS</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#3c873a'" onmouseout="this.style.color='#7b68ee'">🟢 Node JS</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#ff5722'" onmouseout="this.style.color='#7b68ee'">🧠 DSA</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#00599c'" onmouseout="this.style.color='#7b68ee'">💻 C++</span> •
-  <span style="font-size:17px; font-weight:bold; color:#7b68ee; transition: color 0.8s;"
-    onmouseover="this.style.color='#f1502f'" onmouseout="this.style.color='#7b68ee'">🔧 Git</span>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?
+font=Fira+Code
+&weight=600
+&size=22
+&pause=800
+&color=2F80ED
+&center=true
+&vCenter=true
+&width=900
+&lines=☕+Java+Full+Stack+Developer;
+🌱+Spring+Boot+%7C+REST+APIs;
+⚛️+React.js+%7C+JavaScript;
+🗄️+MySQL+%7C+Database+Design;
+🧠+Data+Structures+%26+Algorithms;
+🚀+Building+Scalable+Applications" />
 </p>
 
 ---
 
-## 💬 Ask Me About
-- Java (Core & Advanced)  
-- Full Stack Development  
-- React & Node.js  
-- MySQL  
-- DSA & Problem Solving  
+## 💼 About Me
+
+I’m a highly motivated **Java Full Stack Developer** with a deep passion for engineering **robust, scalable, and high-performance applications** 🚀  
+I thrive at the intersection of **backend architecture, frontend experience, and problem-solving**, turning complex requirements into clean, efficient solutions.
+
+With a strong command over **Core & Advanced Java**, I focus on building reliable systems using modern frameworks while ensuring maintainability, performance, and scalability from day one.  
+On the frontend, I enjoy crafting **intuitive, responsive, and user-centric interfaces** that enhance real-world usability.
+
+Problem-solving is at the core of my mindset — I actively sharpen my **Data Structures & Algorithms** skills to write optimized logic and make better architectural decisions. I strongly believe in **clean code, continuous learning, and real-world execution** over theoretical knowledge.
+
+- 🚀 Design and develop **end-to-end full-stack applications**
+- 🧠 Strong focus on **DSA-driven optimization and efficient logic**
+- ⚙️ Write **clean, scalable, and production-ready code**
+- 🌱 Constantly upskilling through **hands-on projects and learning**
+- 💼 Ready to contribute in **fast-paced, real-world development environments**
+- 📍 Based in **Bangalore, India**
+
+I’m actively seeking opportunities where I can **add immediate value**, grow as a software engineer, and build solutions that make a meaningful impact.
 
 ---
 
-## 📞 Contact Me
+## 🧰 Technology Stack
+
+### 💻 Programming & Backend
+<p>
+  🟢 Java &nbsp;|&nbsp;
+  🟢 Advanced Java &nbsp;|&nbsp;
+  🟢 Spring Boot &nbsp;|&nbsp;
+  🟢 REST APIs
+</p>
+
+### 🌐 Frontend
+<p>
+  🔵 HTML &nbsp;|&nbsp;
+  🔵 CSS &nbsp;|&nbsp;
+  🟡 JavaScript &nbsp;|&nbsp;
+  🔵 React.js
+</p>
+
+### 🗄️ Database
+<p>
+  🟠 MySQL
+</p>
+
+### 🧠 Problem Solving
+<p>
+  🟣 Data Structures & Algorithms
+</p>
+
+---
+
+## 📞 Contact & Links
 
 📧 **Email:** hruthikhruthik740@gmail.com  
 📱 **Phone:** +91 9380482536  
@@ -61,3 +79,4 @@
 
 ---
 
+⭐ *Open to Java / Full Stack Developer opportunities*
