@@ -1,51 +1,73 @@
-👋 Hey there, I'm Hruthik B G
-=================================
-
-💻 **Full Stack Developer & Java Enthusiast**
+<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
+<h3 align="center">Full Stack Developer | Java Enthusiast 🚀</h3>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on building efficient, scalable, and user-friendly applications.  
-I enjoy working on both frontend and backend development and continuously improving my DSA skills.
+💻 Passionate **Full Stack Developer** with a strong foundation in **Java & Web Technologies**  
+🧠 Actively strengthening **Data Structures & Algorithms**  
+⚙️ Enjoy building **scalable, efficient, and user-friendly applications**  
+🌱 Always learning and improving with real-world projects
 
 ---
 
-## 🛠️ Skills (Hover to see color transition)
+## 🛠️ Tech Stack
 
-<p>
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#ff9800'"
-        onmouseout="this.style.color='#6a5acd'">
-    Core Java
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#00bcd4'"
-        onmouseout="this.style.color='#6a5acd'">
-    Advanced Java
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#4caf50'"
-        onmouseout="this.style.color='#6a5acd'">
-    MySQL
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#e34c26'"
-        onmouseout="this.style.color='#6a5acd'">
-    HTML
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#264de4'"
-        onmouseout="this.style.color='#6a5acd'">
-    CSS
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#f7df1e'"
-        onmouseout="this.style.color='#6a5acd'">
-    JavaScript
-  </span> •
-  <span style="font-size:16px; font-weight:bold; color:#6a5acd; transition: color 0.4s;"
-        onmouseover="this.style.color='#61dafb'"
-        onmouseout="this.style.color='#6a5acd'">
-    React
+### 💡 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,cpp" />
+</p>
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+### ⚙️ Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📌 Key Skills
+
+- Core Java & Advanced Java
+- Spring Framework
+- Data Structures & Algorithms
+- React.js & Modern JavaScript
+- RESTful APIs
+- MySQL Database Design
+- Clean Code & Problem Solving
+
+---
+
+## 📂 Featured Projects
+
+🔹 **Coffee Management System**  
+🔹 **Stress Management System**  
+
+👉 Check out my repositories to explore full project details.
+
+---
+
+## 🎯 Career Goals
+
+✔️ Secure a role as a **Java / Full Stack Developer**  
+✔️ Build real-world scalable applications  
+✔️ Continuously improve problem-solving skills  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 Open to **Java & Full Stack Developer opportunities**
+- 🤝 Interested in collaborations & learning together
+
+⭐ _If you like my work, consider starring the repositories!_
