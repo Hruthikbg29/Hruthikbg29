@@ -1,73 +1,49 @@
-<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
-<h3 align="center">Full Stack Developer | Java Enthusiast 🚀</h3>
+## 💼 About Me
+
+I’m a **Java Full Stack Developer** with a strong passion for building **scalable, high-performance, and production-ready applications** 🚀  
+I specialize in designing clean backend architectures and crafting responsive, user-friendly frontend experiences.
+
+I bring a problem-solver mindset, strong fundamentals, and a constant drive to improve — whether it’s **system design, DSA, or modern web development**.
+
+- ⚙️ Skilled in developing **robust full-stack applications**
+- 🧠 Actively strengthening **Data Structures & Algorithms** for efficient problem-solving
+- 🚀 Focused on writing **clean, maintainable, and optimized code**
+- 🌱 Continuously learning and applying concepts through **real-world projects**
+- 📍 Based in **Bangalore, India**
 
 ---
 
-## 🚀 About Me
+## 🧰 Technology Stack
 
-💻 Passionate **Full Stack Developer** with a strong foundation in **Java & Web Technologies**  
-🧠 Actively strengthening **Data Structures & Algorithms**  
-⚙️ Enjoy building **scalable, efficient, and user-friendly applications**  
-🌱 Always learning and improving with real-world projects
-
----
-
-## 🛠️ Tech Stack
-
-### 💡 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp" />
-</p>
+### 💻 Programming & Backend
+🟢 **Java** | 🟢 **Advanced Java** | 🟢 **Spring Boot** | 🟢 **REST APIs**
 
 ### 🌐 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+🔵 **HTML** | 🔵 **CSS** | 🟡 **JavaScript** | 🔵 **React.js**
 
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,mysql" />
-</p>
+### 🗄️ Database
+🟠 **MySQL**
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+### 🧠 Problem Solving
+🟣 **Data Structures & Algorithms (DSA)**
 
 ---
 
-## 📌 Key Skills
+## 🧑‍💼 Professional Summary
 
-- Core Java & Advanced Java
-- Spring Framework
-- Data Structures & Algorithms
-- React.js & Modern JavaScript
-- RESTful APIs
-- MySQL Database Design
-- Clean Code & Problem Solving
+✔️ Strong backend fundamentals with Java & Spring  
+✔️ Hands-on experience in full-stack development  
+✔️ Confident in converting business requirements into technical solutions  
+✔️ Comfortable working independently and in teams  
 
 ---
 
-## 📂 Featured Projects
+## 📞 Contact & Links
 
-🔹 **Coffee Management System**  
-🔹 **Stress Management System**  
-
-👉 Check out my repositories to explore full project details.
-
----
-
-## 🎯 Career Goals
-
-✔️ Secure a role as a **Java / Full Stack Developer**  
-✔️ Build real-world scalable applications  
-✔️ Continuously improve problem-solving skills  
+📧 **Email:** hruthikhruthik740@gmail.com  
+📱 **Phone:** +91 9380482536  
+🔗 **LinkedIn:** [Hruthik Gowda](http://linkedin.com/in/hruthik-gowda-6532b431a)
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 Open to **Java & Full Stack Developer opportunities**
-- 🤝 Interested in collaborations & learning together
-
-⭐ _If you like my work, consider starring the repositories!_
+⭐ *Open to Java / Full Stack Developer opportunities*
