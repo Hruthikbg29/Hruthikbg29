@@ -2,10 +2,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=650&color=F97316&center=true&vCenter=true&width=1000&lines=☕+Core+Java;🚀+Advanced+Java;🌱+Spring+Boot;🔗+REST+APIs;⚛️+React.js;✨+JavaScript;🎨+HTML5+%26+CSS3;🗄️+MySQL;🧩+C%2B%2B;🧠+Data+Structures+%26+Algorithms"
-    alt="Technologies"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&pause=700&color=EC4899&center=true&vCenter=true&width=1100&lines=Core+Java;Advanced+Java;Spring+Framework;Data+Structures+and+Algorithms;React+JS;HTML;CSS;JavaScript;MySQL;C%2B%2B"
+    alt="Tech Stack Animation"
   />
 </p>
+
 
 
 ---
