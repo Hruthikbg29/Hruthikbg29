@@ -1,14 +1,12 @@
 
 <!-- 🌸 Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#ff66cc">Hruthik B G</span></h1>
+<h1 align="center">👋 Hey there, I'm Hruthik B G</h1>
 
-<!-- 🌈 Animated Typing Banner (GitHub-safe) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=26&pause=700&color=EC4899&center=true&vCenter=true&width=1100&lines=Core+Java;Advanced+Java;Spring+Framework;Data+Structures+and+Algorithms;React+JS;HTML;CSS;JavaScript;MySQL;C%2B%2B"
-    alt="Tech Stack Animation"
-  />
+  <img src="https://raw.githubusercontent.com/Hruthikbg29/Hruthikbg29/main/typing-multicolor.svg" />
 </p>
+
+
 
 
 
