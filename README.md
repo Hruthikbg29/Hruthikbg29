@@ -55,7 +55,7 @@ and maintainable architectures** that scale with business needs.
 
 📧 **Email:** hruthikhruthik740@gmail.com  
 📱 **Phone:** +91 9380482536  
-🔗 **LinkedIn:** http://linkedin.com/in/hruthik-gowda-6532b431a  
+🔗 **LinkedIn:** https://linkedin.com/in/hruthikbg29
 
 ---
 
