@@ -17,7 +17,7 @@
 
 ## 🧭 About Me
 
-I’m a highly motivated **Java Full Stack Developer** with a strong passion for building  
+I’m a highly motivated **Java Full Stack Developer** with a strong passion for building 
 **scalable, efficient, and real-world production-ready applications** 🚀.
 
 I specialize in crafting **robust backend systems** using **Java and Spring**, while delivering  
